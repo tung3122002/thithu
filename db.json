@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "name": "12",
+      "img": "3",
+      "description": "3",
+      "price": "4222",
+      "id": 2
+    }
+  ],
+  "users": []
+}
